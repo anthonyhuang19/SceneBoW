@@ -40,6 +40,7 @@ def main(method, k=50):
 
     # Convert image into tiny image or bag of sift
     if method == "tiny_image":
+
         k = k
         train_dataset = tiny_image(train_image_path)
         test_dataset = tiny_image(testing_image_path)
@@ -100,10 +101,3 @@ if __name__ == "__main__":
         main(method)
     else:
         comparison()
-"""
-Running command :
-Tiny Image 
-python3 main.py tiny_image 1
-python3 main.py bag_word 1
-
-"""
