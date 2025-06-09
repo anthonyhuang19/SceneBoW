@@ -1,5 +1,5 @@
 # Scene Recognition with Bag of Words and Tiny Image Representation 🌄
-
+![Diagram](result/diagram.png)
 This project implements two different methods for scene recognition: **Bag of Words (BoW)** using **SIFT** feature extraction and **Tiny Image Representation**. Both methods are used with **KNN (k-Nearest Neighbors)** classification to recognize scenes from the **15 Scene Dataset**.
 
 ## Project Overview 🎯
