@@ -1,4 +1,4 @@
-# SceneBoW 🌄
+# Scene Recognition with Bag of Words and Tiny Image Representation 🌄
 **SceneBoW** is a scene recognition project using two classical computer vision methods:
 - **Bag of Words (BoW)** with **SIFT** features
 - **Tiny Image Representation**
